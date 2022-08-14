@@ -23,4 +23,4 @@ make
 ```
 
 ## References
-A [CMake extension]<https://github.com/Makman2/GCR_CMake> supporting the glib-compile-resources tool
+A [CMake extension](https://github.com/Makman2/GCR_CMake) supporting the glib-compile-resources tool
