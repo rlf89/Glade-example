@@ -24,3 +24,8 @@ make
 
 ## References
 A [CMake extension](https://github.com/Makman2/GCR_CMake) supporting the glib-compile-resources tool
+
+License
+-------
+
+Glade-example is licensed under the MIT License, see [LICENSE](https://github.com/rlf89/Glade-example/blob/main/LICENSE) for more information.
